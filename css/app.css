@@ -91,26 +91,26 @@ img {
     padding-left: 3px;
 }
 
-.editorial {
+.bg-light-blue {
     background-color: rgb(0, 140, 255);
 }
 
-.goals {
+.bg-blueviolet {
     background-color: blueviolet;
 }
 
-.recruiting {
+.bg-green {
     background-color: rgb(48, 121, 48);
 }
 
-.mobile {
+.bg-orange {
     background-color: orange;
 }
 
-.website {
+.bg-palevioletred {
     background-color: palevioletred;
 }
 
-.sales {
+.bg-greenyellow {
     background-color: greenyellow;
 }
